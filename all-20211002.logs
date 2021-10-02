@@ -1,0 +1,10 @@
+2021-10-02 13:30:47.153 +05:30 [ERR] Error accrued at Attempted to divide by zero.
+2021-10-02 13:30:47.174 +05:30 [FTL] Error Name 
+2021-10-02 13:30:47.702 +05:30 [DBG] Some debug log
+2021-10-02 13:30:47.702 +05:30 [INF] Output 1 
+2021-10-02 13:30:47.703 +05:30 [WRN] Warning accrued at "2021-10-02T13:30:47.7032277+05:30"
+2021-10-02 13:31:00.484 +05:30 [DBG] Some debug log
+2021-10-02 13:31:00.484 +05:30 [INF] Output 2 
+2021-10-02 13:31:00.484 +05:30 [WRN] Warning accrued at "2021-10-02T13:31:00.4847766+05:30"
+2021-10-02 13:31:34.730 +05:30 [ERR] Error accrued at Attempted to divide by zero.
+2021-10-02 13:31:34.730 +05:30 [FTL] Error Name 
